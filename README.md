@@ -1,5 +1,9 @@
 1、开发环境：cocos2dx 3.17 使用的是win32平台
+
 2、主要实现的功能：① 手牌区翻牌替换
 ② 桌面牌和手牌区顶部牌匹配
 ③ 回退功能
+
 3、视频演示：
+
+![示意deomo：](https://github.com/Hai-lk/simpleCareGame/blob/master/demo.gif)
